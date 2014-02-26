@@ -20,6 +20,7 @@
 **/local.properties
 
 ##Eclipse
+**/*.properties
 **/*.pydevproject
 **/*.project
 **/*.metadata
@@ -34,6 +35,7 @@
 **/.classpath
 **/.settings/
 **/.loadpath
+
 
 # External tool builders
 **/.externalToolBuilders/
